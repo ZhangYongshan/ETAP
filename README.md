@@ -1,5 +1,5 @@
 # Efficient Tensorized Multi-View Anchor Graph Clustering with Affinity Propagation for Remote Sensing Data
-+ Code for the paper: "Efficient Tensorized Multi-View Anchor Graph Clustering with Affinity Propagation for Remote Sensing Data",AAAI，2026.
++ Code for the paper: "Yongshan Zhang, Kangyue Zheng, Shuaikang Yan, Xinxin Wang2*, Zhihua Cai.Efficient Tensorized Multi-View Anchor Graph Clustering with Affinity Propagation for Remote Sensing Data",AAAI，2026.
 
 # Method
 ## Overall Structure
